@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "nP7BbFPoQE2VPFKvVEons0Sp68/UphiK6tE7wX3/O9I=",
+  "Source": "CobaMySql",
+  "BasePath": "_content/CobaMySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CobaMySql/wwwroot",
+      "Source": "CobaMySql",
+      "ContentRoot": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/",
+      "BasePath": "_content/CobaMySql",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/products/diadora-piagio-black.webp",
+      "SourceId": "CobaMySql",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/",
+      "BasePath": "_content/CobaMySql",
+      "RelativePath": "products/diadora-piagio-black.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/products/diadora-piagio-black.webp"
+    },
+    {
+      "Identity": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/products/thinkpad-l16.webp",
+      "SourceId": "CobaMySql",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/",
+      "BasePath": "_content/CobaMySql",
+      "RelativePath": "products/thinkpad-l16.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/products/thinkpad-l16.webp"
+    }
+  ]
+}

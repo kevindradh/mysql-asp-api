@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/products/diadora-piagio-black.webp",
+      "PackagePath": "staticwebassets/products/diadora-piagio-black.webp"
+    },
+    {
+      "Id": "/Users/kevind/RiderProjects/CobaMySql/wwwroot/products/thinkpad-l16.webp",
+      "PackagePath": "staticwebassets/products/thinkpad-l16.webp"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CobaMySql.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CobaMySql.props",
+      "PackagePath": "build\\CobaMySql.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CobaMySql.props",
+      "PackagePath": "buildMultiTargeting\\CobaMySql.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CobaMySql.props",
+      "PackagePath": "buildTransitive\\CobaMySql.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
