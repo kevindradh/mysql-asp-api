@@ -3,4 +3,4 @@ WORKDIR /app
 COPY . .
 RUN dotnet publish -c Release -o out
 EXPOSE 80
-ENTRYPOINT ["dotnet", "out/SimpleStore.dll"]
+ENTRYPOINT ["dotnet", "out/CobaMySql.dll"]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CobaMySql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7bec3c1e5a8a9c1314c8d38047b8cc6e7ad7e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CobaMySql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CobaMySql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
